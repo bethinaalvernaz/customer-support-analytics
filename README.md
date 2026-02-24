@@ -26,6 +26,7 @@ Etapas realizadas:
 - Identificação dos principais motivos de contato e recontato
 - Análise de tendências ao longo do tempo
 
+```md
 ## 🧠 SQL Analysis
 
 Exemplo de cálculo da taxa de recontato:
@@ -41,7 +42,7 @@ SELECT
     COUNT(*) AS total_contatos
 FROM tabela_atendimentos
 GROUP BY ds_hierarquia_a
-ORDER BY total_contatos DESC;```
+ORDER BY total_contatos DESC;
   
 ## 📊 Dashboard Overview
 
