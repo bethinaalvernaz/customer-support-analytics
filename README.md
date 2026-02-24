@@ -43,11 +43,13 @@ Etapas realizadas:
 Exemplo de cálculo da taxa de recontato:
 
 ```sql
+-- cálculo da taxa de recontato por cliente
 SELECT
   COUNT(DISTINCT CASE WHEN recontato = 'Sim' THEN id_cliente END) * 1.0
   / COUNT(DISTINCT id_cliente) AS recontact_rate
 FROM tabela_atendimentos;
 
+-- volume de contatos por motivo (visão macro)
 SELECT
   ds_hierarquia_a AS motivo,
   COUNT(*) AS total_contatos
@@ -109,6 +111,8 @@ Recontato = novo atendimento (novo id_issue) aberto pelo mesmo id_cliente em at�
 A análise evidencia que o volume de contatos está fortemente concentrado em temas relacionados a Cartão, que também apresentam alta taxa de recontato.
 
 Isso sugere oportunidades claras de melhoria em fluxos operacionais, comunicação com o cliente e resolução no primeiro atendimento (FCR), com potencial direto de redução de demanda e custos operacionais.
+
+A aplicação dessas recomendações pode reduzir a taxa de recontato, melhorar o FCR e diminuir custos operacionais, além de melhorar a experiência do cliente.
 
 > Projeto desenvolvido como estudo de Customer & Business Analytics.
 > ### 👩‍💻 Autora: Bethina Alvernaz
