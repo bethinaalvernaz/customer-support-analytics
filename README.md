@@ -110,7 +110,7 @@ Recontato = novo atendimento (novo id_issue) aberto pelo mesmo id_cliente em at�
 
 ## 📌 Conclusão
 
-A análise evidencia que o volume de contatos está fortemente concentrado em temas relacionados a Cartão, que também apresentam alta taxa de recontato.
+A análise evidencia que o volume de contatos está fortemente concentrado em temas relacionados a cartão, que também apresentam alta taxa de recontato.
 
 Isso sugere oportunidades claras de melhoria em fluxos operacionais, comunicação com o cliente e resolução no primeiro atendimento (FCR), com potencial direto de redução de demanda e custos operacionais.
 
