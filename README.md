@@ -5,7 +5,7 @@ Este projeto analisa dados de suporte ao cliente com foco na identificação dos
 
 Principais achados:
 
-- Taxa de recontato de 15,7%, indicando oportunidades relevantes de melhoria na resolução no primeiro atendimento (FCR)
+- Taxa de recontato de 15,73%, indicando oportunidades relevantes de melhoria na resolução no primeiro atendimento (FCR)
 - Forte concentração do volume de contatos no canal de chat, sugerindo dependência operacional desse canal
 - Demandas relacionadas a cartão como principal driver tanto de contatos quanto de recontatos, evidenciando possíveis falhas em comunicação, processos ou experiência do produto
 
