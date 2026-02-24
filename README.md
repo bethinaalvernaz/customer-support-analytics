@@ -111,4 +111,4 @@ A análise evidencia que o volume de contatos está fortemente concentrado em te
 Isso sugere oportunidades claras de melhoria em fluxos operacionais, comunicação com o cliente e resolução no primeiro atendimento (FCR), com potencial direto de redução de demanda e custos operacionais.
 
 > Projeto desenvolvido como estudo de Customer & Business Analytics.
-> ### 👩‍💻 Author: Bethina Alvarez
+> ### 👩‍💻 Autora: Bethina Alvernaz
