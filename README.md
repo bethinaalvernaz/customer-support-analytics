@@ -62,6 +62,7 @@ ORDER BY total_contatos DESC;
   
 ## 📊 Dashboard Overview
 
+![Overview](overview.png)
 
 ## 📌 Contexto
 O atendimento apresentou alto volume de contatos concentrado no canal de chat e presença relevante de recontatos, sugerindo falhas de resolução no primeiro atendimento e aumento de custo operacional.
@@ -77,17 +78,16 @@ Realizar uma análise diagnóstica para identificar os principais motivos de con
 - Taxa de recontato (global e por motivo)
 
 ## 🔍 Contact vs Recontact Analysis
-
+![Contact vs Recontact](contact_vs_recontact.png)
 
 ## 📈 Recontact Analysis
-
+![Recontact Analysis](recontact_analysis.png)
 
 ## 📊 Contact Volume Trend
-
+![Recontact Analysis](recontact_analysis.png)
 
 ## ⚠️ Recontact Drivers
-
-
+![Recontact Drivers](recontact_drivers.png)
 
 ## 🧠 Definição de recontato
 Recontato = novo atendimento (novo id_issue) aberto pelo mesmo id_cliente em até 7 dias após o primeiro contato.
