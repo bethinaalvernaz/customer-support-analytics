@@ -42,6 +42,7 @@ SELECT
 FROM tabela_atendimentos
 GROUP BY ds_hierarquia_a
 ORDER BY total_contatos DESC;
+```
   
 ## 📊 Dashboard Overview
 
