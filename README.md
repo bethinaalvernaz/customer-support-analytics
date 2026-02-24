@@ -1,4 +1,6 @@
 ## Customer Support Analytics – Recontact Analysis
+Projeto focado na análise de recontato em atendimento ao cliente, com abordagem orientada a dados para melhoria de FCR e eficiência operacional.
+
 ## 📊 Resumo Executivo
 
 Este projeto analisa dados de suporte ao cliente com foco na identificação dos principais fatores que impulsionam o recontato e na geração de insights para melhoria da eficiência operacional e da experiência do cliente.
