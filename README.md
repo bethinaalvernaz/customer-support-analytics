@@ -1,14 +1,15 @@
 ## Customer Support Analytics – Recontact Analysis
-## 📊 Executive Summary
+## 📊 Resumo Executivo
 
-This project analyzes customer support data to identify the main drivers of recontact and opportunities to improve first contact resolution (FCR).
+Este projeto analisa dados de suporte ao cliente com foco na identificação dos principais fatores que impulsionam o recontato e na geração de insights para melhoria da eficiência operacional e da experiência do cliente.
 
-Key findings:
-- Recontact rate of 15.7% indicates operational inefficiencies
-- Contact volume is highly concentrated in chat channel
-- Card-related issues are the main drivers of both contacts and recontacts
+Principais achados:
 
-The analysis provides actionable insights to reduce unnecessary demand and improve customer experience.
+- Taxa de recontato de 15,7%, indicando oportunidades relevantes de melhoria na resolução no primeiro atendimento (FCR)
+- Forte concentração do volume de contatos no canal de chat, sugerindo dependência operacional desse canal
+- Demandas relacionadas a cartão como principal driver tanto de contatos quanto de recontatos, evidenciando possíveis falhas em comunicação, processos ou experiência do produto
+
+A análise gera insights acionáveis que podem apoiar a redução de demanda artificial, otimização de processos e aumento da eficiência no atendimento ao cliente.
 
 ## 🗂️ Data Source
 
