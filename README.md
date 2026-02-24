@@ -94,7 +94,7 @@ Recontato = novo atendimento (novo id_issue) aberto pelo mesmo id_cliente em at�
 
 ## 🔎 Principais insights
 - Alto volume de contatos com forte concentração no canal de chat.
-- Motivos de **Cartão** concentram a maior parte dos contatos e também a maior parte dos recontatos.
+- Motivos de **cartão** concentram a maior parte dos contatos e também a maior parte dos recontatos.
 - Taxa de recontato de **15,73%** indica demanda artificial relevante e pressão operacional.
 
 ## 💡 Recomendações
