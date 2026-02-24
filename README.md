@@ -1,4 +1,18 @@
 # Customer Support Analytics – Recontact Analysis
+## 🗂️ Data Source
+
+Os dados utilizados neste projeto simulam atendimentos de suporte ao cliente em uma fintech.
+
+A base contém informações como:
+
+- id_cliente: identificador único do cliente  
+- id_issue: identificador do atendimento  
+- canal: canal de atendimento (chat, email)  
+- ds_hierarquia_a: categoria macro do motivo  
+- ds_hierarquia_b: motivo detalhado do contato  
+- dt_data / dt_hora: data e hora do atendimento  
+- recontato: indicador se houve novo contato em até 7 dias
+  
 ## 📊 Dashboard Overview
 
 ![Overview](overview.png)
