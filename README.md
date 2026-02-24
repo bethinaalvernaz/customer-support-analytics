@@ -41,7 +41,7 @@ SELECT
     COUNT(*) AS total_contatos
 FROM tabela_atendimentos
 GROUP BY ds_hierarquia_a
-ORDER BY total_contatos DESC;
+ORDER BY total_contatos DESC;```
   
 ## 📊 Dashboard Overview
 
