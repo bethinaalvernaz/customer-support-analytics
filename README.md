@@ -20,7 +20,7 @@ Realizar uma análise diagnóstica para identificar os principais motivos de con
 ## 📈 Recontact Analysis
 
 ![Recontact Analysis](recontact_analysis.png)
-## 📅 Contact Volume Trend
+## 📊 Contact Volume Trend
 
 ![Volume Trend](volume_trend.png)
 ## ⚠️ Recontact Drivers
@@ -31,13 +31,13 @@ Realizar uma análise diagnóstica para identificar os principais motivos de con
 Recontato = novo atendimento (novo id_issue) aberto pelo mesmo id_cliente em até 7 dias após o primeiro contato.
 
 ## 🔎 Principais insights
-- Volume total elevado e concentrado no chat.
+- Alto volume de contatos com forte concentração no canal de chat.
 - Motivos de **Cartão** concentram a maior parte dos contatos e também a maior parte dos recontatos.
-- Taxa de recontato de **15,7%** indica demanda artificial relevante e pressão operacional.
+- Taxa de recontato de **15,73%** indica demanda artificial relevante e pressão operacional.
 
 ## 💡 Recomendações
 - Comunicação preventiva ao cliente para reduzir dúvidas recorrentes.
-- Fortalecimento do FCR com scripts e direcionamentos mais objetivos.
+- Aumento do FCR por meio de padronização de scripts e melhoria na base de conhecimento.
 - Monitoramento contínuo de recontato por motivo (dashboards de alerta).
 - Revisão de fluxos de Cartão para atacar causas-raiz.
 
@@ -45,5 +45,11 @@ Recontato = novo atendimento (novo id_issue) aberto pelo mesmo id_cliente em at�
 - SQL
 - Power BI
 - Excel / Google Sheets
+
+- ## 📌 Conclusão
+
+A análise evidencia que o volume de contatos está fortemente concentrado em temas relacionados a Cartão, que também apresentam alta taxa de recontato.
+
+Isso sugere oportunidades claras de melhoria em fluxos operacionais, comunicação com o cliente e resolução no primeiro atendimento (FCR), com potencial direto de redução de demanda e custos operacionais.
 
 > Projeto desenvolvido como estudo de Customer & Business Analytics.
