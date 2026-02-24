@@ -101,7 +101,7 @@ Recontato = novo atendimento (novo id_issue) aberto pelo mesmo id_cliente em at�
 - Comunicação preventiva ao cliente para reduzir dúvidas recorrentes.
 - Aumento do FCR por meio de padronização de scripts e melhoria na base de conhecimento.
 - Monitoramento contínuo de recontato por motivo (dashboards de alerta).
-- Revisão de fluxos de Cartão para atacar causas-raiz.
+- Revisão de fluxos de cartão para atacar causas-raiz.
 
 ## 🛠️ Ferramentas
 - SQL
