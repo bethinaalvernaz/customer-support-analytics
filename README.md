@@ -12,6 +12,19 @@ A base contém informações como:
 - ds_hierarquia_b: motivo detalhado do contato  
 - dt_data / dt_hora: data e hora do atendimento  
 - recontato: indicador se houve novo contato em até 7 dias
+
+## ⚙️ Metodologia
+
+A análise foi conduzida considerando a identificação de recontatos como novos atendimentos realizados pelo mesmo cliente em até 7 dias após o contato inicial.
+
+Etapas realizadas:
+
+- Tratamento e organização dos dados
+- Criação de métricas de volume de contatos e clientes únicos
+- Cálculo da taxa de recontato (global e por motivo)
+- Análise de distribuição por canal
+- Identificação dos principais motivos de contato e recontato
+- Análise de tendências ao longo do tempo
   
 ## 📊 Dashboard Overview
 
