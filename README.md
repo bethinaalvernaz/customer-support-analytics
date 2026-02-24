@@ -1,4 +1,4 @@
-# Customer Support Analytics – Recontact Analysis
+NÃO RESOLVEU # Customer Support Analytics – Recontact Analysis
 ## 🗂️ Data Source
 
 Os dados utilizados neste projeto simulam atendimentos de suporte ao cliente em uma fintech.
@@ -30,7 +30,7 @@ Etapas realizadas:
 
 Exemplo de cálculo da taxa de recontato:
 
-```sql
+sql
 SELECT
     COUNT(DISTINCT CASE WHEN recontato = 'Sim' THEN id_cliente END) * 1.0
     / COUNT(DISTINCT id_cliente) AS recontact_rate
