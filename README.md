@@ -15,7 +15,7 @@ A análise gera insights acionáveis que podem apoiar a redução de demanda art
 
 ## 🗂️ Data Source
 
-Os dados utilizados neste projeto simulam atendimentos de suporte ao cliente em uma fintech.
+Os dados utilizados neste projeto são **fictícios e anonimizados**, construídos para simular atendimentos de suporte ao cliente em uma fintech, sem qualquer vínculo com dados reais ou sensíveis.
 
 A base contém informações como:
 
@@ -116,5 +116,5 @@ Isso sugere oportunidades claras de melhoria em fluxos operacionais, comunicaç�
 
 A aplicação dessas recomendações pode reduzir a taxa de recontato, melhorar o FCR e diminuir custos operacionais, além de melhorar a experiência do cliente.
 
-> Projeto desenvolvido como estudo de Customer & Business Analytics.
+> Projeto desenvolvido como estudo de Customer & Business Analytics, utilizando dados simulados para fins educacionais.
 > ### 👩‍💻 Autora: Bethina Alvernaz
