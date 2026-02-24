@@ -14,7 +14,8 @@ Realizar uma análise diagnóstica para identificar os principais motivos de con
 - Contatos por canal e por mês
 - Motivos de contato (macro e detalhado)
 - Taxa de recontato (global e por motivo)
-- ## 🔍 Contact vs Recontact Analysis
+
+## 🔍 Contact vs Recontact Analysis
 
 ![Contact vs Recontact](contact_vs_recontact.png)
 ## 📈 Recontact Analysis
@@ -46,7 +47,7 @@ Recontato = novo atendimento (novo id_issue) aberto pelo mesmo id_cliente em at�
 - Power BI
 - Excel / Google Sheets
 
-- ## 📌 Conclusão
+## 📌 Conclusão
 
 A análise evidencia que o volume de contatos está fortemente concentrado em temas relacionados a Cartão, que também apresentam alta taxa de recontato.
 
