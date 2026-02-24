@@ -28,17 +28,17 @@ Etapas realizadas:
 
 ## 🧠 SQL Analysis
 
-Exemplo de cálculo de taxa de recontato:
+Exemplo de cálculo da taxa de recontato:
 
 ```sql
-SELECT 
-    COUNT(DISTINCT CASE WHEN recontact = 'Sim' THEN id_cliente END) * 1.0 
-    / COUNT(DISTINCT id_cliente) AS recontact_rate
+SELECT
+  COUNT(DISTINCT CASE WHEN recontato = 'Sim' THEN id_cliente END) * 1.0
+  / COUNT(DISTINCT id_cliente) AS recontact_rate
 FROM tabela_atendimentos;
 
-SELECT 
-    ds_hierarquia_a AS motivo,
-    COUNT(*) AS total_contatos
+SELECT
+  ds_hierarquia_a AS motivo,
+  COUNT(*) AS total_contatos
 FROM tabela_atendimentos
 GROUP BY ds_hierarquia_a
 ORDER BY total_contatos DESC;
