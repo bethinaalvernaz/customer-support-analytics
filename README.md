@@ -26,7 +26,6 @@ Etapas realizadas:
 - Identificação dos principais motivos de contato e recontato
 - Análise de tendências ao longo do tempo
 
-```md
 ## 🧠 SQL Analysis
 
 Exemplo de cálculo da taxa de recontato:
