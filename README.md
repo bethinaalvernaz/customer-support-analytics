@@ -9,7 +9,7 @@ Principais achados:
 
 - Taxa de recontato de 15,73%, indicando oportunidades relevantes de melhoria na resolução no primeiro atendimento (FCR)
 - Forte concentração do volume de contatos no canal de chat, sugerindo dependência operacional desse canal
-- Demandas relacionadas a cartão como principal driver tanto de contatos quanto de recontatos, evidenciando possíveis falhas em comunicação, processos ou experiência do produto
+- Demandas relacionadas a cartão concentram o maior volume de contatos e recontatos, indicando possíveis ineficiências na jornada ou falhas na resolução inicial
 
 A análise gera insights acionáveis que podem apoiar a redução de demanda artificial, otimização de processos e aumento da eficiência no atendimento ao cliente.
 
