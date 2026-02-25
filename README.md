@@ -51,12 +51,12 @@ SELECT
   / COUNT(DISTINCT id_cliente) AS recontact_rate
 FROM tabela_atendimentos;
 
--- volume de contatos por motivo (visão macro)
+-- volume de contatos por motivo (visão detalhada)
 SELECT
-  ds_hierarquia_a AS motivo,
+  Motivo_Contato AS motivo,
   COUNT(*) AS total_contatos
 FROM tabela_atendimentos
-GROUP BY ds_hierarquia_a
+GROUP BY Motivo_Contato
 ORDER BY total_contatos DESC;
 ```
   
