@@ -84,7 +84,7 @@ Realizar uma análise diagnóstica para identificar os principais motivos de con
 ![Recontact Analysis](recontact_analysis.png)
 
 ## 📊 Contact Volume Trend
-![Recontact Analysis](recontact_analysis.png)
+![Volume Trend](volume_trend.png)
 
 ## ⚠️ Recontact Drivers
 ![Recontact Drivers](recontact_drivers.png)
